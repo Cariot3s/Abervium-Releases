@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "app_id": "com.cariot3s.abervium",
-  "version_code": 28,
-  "version_name": "0.6.5-alpha",
-  "size_bytes": 68474369,
-  "asset_url": "https://raw.githubusercontent.com/Cariot3s/Abervium-Releases/main/apk/abervium-0.6.5-alpha.apk",
-  "sha256": "db2f996cd55f2c8e2fba038594b3cbdc3c92e9419ca7071a5e00bc8da43a4245"
+  "version_code": 29,
+  "version_name": "0.6.6-alpha",
+  "size_bytes": 68544657,
+  "asset_url": "https://raw.githubusercontent.com/Cariot3s/Abervium-Releases/main/apk/abervium-0.6.6-alpha.apk",
+  "sha256": "fbcfc124b26aa5159985d1b2fcc762e6f23f4172c7bbac04e8f0f2c96928884b"
 }
